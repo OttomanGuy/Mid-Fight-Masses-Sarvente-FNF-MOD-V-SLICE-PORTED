@@ -1,7 +1,7 @@
 # Mid-Fight-Masses-Sarvente-FNF-MOD-V-SLICE-PORT
 A port of Sarvente’s Mid-Fight Masses to FNF V-Slice, made fully compatible with iOS and Android so you can enjoy the mod on the go.
 
-click on the "release" tab for the zip file
+click on the "releases" tab for the zip file
 
 What’s Included (v1.0)
 •PARISH

@@ -10,6 +10,7 @@ What’s Included (v1.0)
 •GOSPEL
 
 Planned for Next Release
+•fixing story menu errors
 •Casanova (vs selever)+ its week
 •Working dialogues
 •"alt" or in v-slice "night" difficulty (i will try it out)
